@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hjun's%20gitHub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hjun's%20gitHub&fontSize=70" />
 
 <div align="center">
   
@@ -11,6 +11,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakerJun46)
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&" />
+
+
   <!--
 **MakerJun46/MakerJun46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
