@@ -3,8 +3,13 @@
 <div align="center">
   
 ![TryKingHJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakerJun46&hide=stars&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakerJun46)
   
+</div>
+
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakerJun46)
+
 </div>
   <!--
 **MakerJun46/MakerJun46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
