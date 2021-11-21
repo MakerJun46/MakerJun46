@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![TryKingHJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakerJun46)](https://github.com/anuraghazra/github-readme-stats)
+[![TryKingHJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakerJun46&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
