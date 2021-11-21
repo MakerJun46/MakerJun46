@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hjun's%20gitHub&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Hjun's%20gitHub&fontSize=70" />
 
 <div align="center">
   
@@ -6,12 +6,7 @@
   
 </div>
 
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakerJun46)
-
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer&" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer&" />
 
 
   <!--
