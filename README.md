@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Hjun's%20gitHub&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Hjun's%20gitHub&fontSize=60&animation=fadeIn" />
 
 <div align="center">
   
