@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=Auto&height=200&section=footer&" />
 
-1
+
   <!--
 **MakerJun46/MakerJun46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
