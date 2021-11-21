@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=Auto&height=200&section=header&text=Hjun's%20gitHub&fontSize=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hjun's%20gitHub&fontSize=60&animation=fadeIn" />
 
 <div align="center">
   
@@ -6,7 +6,7 @@
   
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=Auto&height=200&section=footer&" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&" />
 
 
   <!--
