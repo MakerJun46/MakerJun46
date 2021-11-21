@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<div>
+<div align="center">
   
-[![TryKingHJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakerJun46&hide=stars&count_private=true&show_icons=true&theme=radical)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakerJun46)]
+![TryKingHJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakerJun46&hide=stars&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakerJun46)
   
 </div>
   <!--
