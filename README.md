@@ -2,8 +2,8 @@
 
 <div align=center>
 	
-	[![TryKingHJ's github stats](https://github-readme-stats.vercel.app/api?MakerJun46=MakerJun46)](https://github.com/anuraghazra/github-readme-stats)
-	
+	[![TryKingHJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakerJun46)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <!--
