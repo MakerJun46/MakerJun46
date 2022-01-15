@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<a href="https://www.notion.so/2dc7b096b714414383b931d4ba432812" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.notion.so/2dc7b096b714414383b931d4ba432812"target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   
 ![TryKingHJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakerJun46&hide=stars&count_private=true&show_icons=true&theme=radical)
   
